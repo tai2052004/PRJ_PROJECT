@@ -1,0 +1,33 @@
+.header__logo p {
+    margin-left: 20px;
+    color: black;
+}
+.header__logo {
+    margin: 40px auto 0 auto;
+    width: 200px;
+    height: 40px;
+    
+}
+html body{
+    background: url(../img/backgroundlogin.jpg);
+}
+.header__button__Login__form{
+    background: rgba(246, 246, 246, 0.6);
+}
+
+.header__logo p {
+    margin-left: 20px;
+    color: black;
+}
+.header__logo {
+    margin: 40px auto 0 auto;
+    width: 200px;
+    height: 40px;
+    
+}
+html body{
+    background: url(../img/backgroundlogin.jpg);
+}
+.header__button__Register__form{
+    background: rgba(246, 246, 246, 0.6);
+}
